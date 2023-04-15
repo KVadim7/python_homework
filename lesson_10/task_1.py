@@ -1,5 +1,7 @@
 def oops():
     raise IndexError("Oops! It's IndexError")
+    
+    
 def catch_error():
     try:
         oops()
