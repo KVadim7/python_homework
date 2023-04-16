@@ -1,0 +1,23 @@
+{
+   "789090704": {
+      "first_name": "Marek",
+      "last_name": "Kaplita",
+      "telephone_number": "789090704",
+      "city": "Warsaw",
+      "state": "Poland"
+   },
+   "0967803750": {
+      "first_name": "Svitlana",
+      "last_name": "Kurilko",
+      "telephone_number": "0967803750",
+      "city": "Myrne",
+      "state": "Ukraine"
+   },
+   "0961768548": {
+      "first_name": "Oksana",
+      "last_name": "Kurilko",
+      "telephone_number": "0961768548",
+      "city": "Rivne",
+      "state": "Ukraine"
+   }
+}
