@@ -1,4 +1,7 @@
+from functools import wraps
+
 def logger(func):
+    @wraps(func)
     def wrapper(*args):
         args_str = ", ".join(str(arg) for arg in args)
         print(f"{func.__name__} called with {args_str}")
